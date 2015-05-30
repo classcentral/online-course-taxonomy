@@ -1,4 +1,4 @@
-# MOOC course taxonomy philosophy
+# Online course taxonomy philosophy
 
 Who knew subjects would be so subjective!
 
