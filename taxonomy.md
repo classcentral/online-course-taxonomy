@@ -11,12 +11,10 @@ keywords:<br> 3D, abelton live, animation, animators, computational arts, digita
 keywords: <br> beatles, beethoven, blues, brahms, classical, ensembles, guitar, improvization, jazz, mozart, music, music history, music theory, opera, percussion, rock, rolling stones, songwriting, string quartet, viola, violin, western music, world music
 
 <h4>Visual Arts</h4>
-keywords:<br> animation, architecture, art, art history, comic books, contemporary art, drawing, fashion, 
-graphic novels, painting, photography, textiles
+keywords:<br> alberti, bramanti, animation, architecture, art, art history, comic books, contemporary architecture, contemporary art, drawing, fashion, frank lloyd wright, graphic novels, museum, painting, photography, renaissance, textiles, warhol
 
 <h4>Design & Creativity</h4>
-keywords:<br> biomimicry, creativity, design, geodesign, HCI, human computer interaction, interaction,
-interior design, prototyping, visual design
+keywords:<br> biomimicry, creativity, design, design thinking, feedback, geodesign, HCI, human-centered design, human computer interaction, innovation, interaction, interior design, needfinding, product design, prototyping, user experience, ux, visual design
 
 <h2>Business & Management</h2>
 
