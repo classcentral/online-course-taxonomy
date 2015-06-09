@@ -143,14 +143,16 @@ health care informatics, immunology, nursing, pediatric, pharmacology, practice,
 <h4>Literature</h4>
 
 <h4>Grammar & Writing</h4>
-keywords: <br> composition, english, essays, grammar, journalism, writing
+keywords: <br> business writing, community journalism, composition, digital journalism, documentation, english, english composition, essays, grammar, journalism, rhetorical composition, technical documentation, writing
 
 <h4>Languages & Culture</h4>
+keywords: <br> china, chinese, culture, dutch, language, english, german, korea, latin american, mandarin, pop culture, spanish, western culture
 
 <h4>History</h4>
+keywords: <br> ancient egypt, ancient greece, battle of waterloo, civil war, colonialism, emancipation proclamation, french revolution, gilded age, global history, great depression, history, holocaust, magna carta, middle ages, reconstruction, roaring twenties, western civiliation, u.s. history, vietnam war, world war one, world war two, world war I, world war II
 
 <h4>Philosophy</h4>
-keywords:<br> bioethics, ethics, logic, moralities, morals, paradoxes, philosophy, thinking, thought, wisdom
+keywords:<br> altruism, anarchy, bioethics, calvin, confucian philosophy, consequentialism, deontology, epicirus, epicureanism, epistemology, ethics, existence, hedonism, human will, infinities, isocrates, kierkegaard, logic, mathematical philosophy, meaning, metaphysics, moral philosophy, moral psychology, moralities, morals, natural philosophy, neuroethics, occasionalism, ontology, paradoxes, philosophy, plato, pragmatist, reasoning, skepticism, socrates, stoicism, theorems, thinking, thought, truth values, value theory, values, virtue ethics, wisdom
 
 <h4>Religion</h4>
 keywords:<br> bible, buddhism, christianity, islam, jesus, mohammed, religion, scripture, spirituality, theology
