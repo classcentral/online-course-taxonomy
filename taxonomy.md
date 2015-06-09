@@ -58,29 +58,25 @@ keywords: <br> bioinformatics, biological data, biostatistics, dna methylation, 
 
 <h4>K12</h4>
 keywords:<br> common core, early childhood education, first year teaching, k12, primary, primary education, 
-secondary, secondary education
+secondary, secondary education, youth education, 
 
 <h4>STEM</h4>
-keywords:<br> hacker spaces, maker spaces, STEAM, STEM, tinkering
+keywords:<br> digital literacy, gaming literacy, hacker spaces, maker spaces, STEAM, STEM, tinkering
 
 <h4>Higher Education</h4>
-keywords: <br> academic success, adult, college, college admissions, college prep, dissertations, higher education, 
-research, universities
+keywords: <br> academic success, adult, adult learners, college, college admissions, college applications, college prep, dissertations, higher education, research, research projects, student success, study skills, universities
 
 <h4>Teacher Development</h4>
-keywords:<br> coaching, teaching, training
+keywords:<br> coaching, educator, foundations of teaching, instructional methods, student centered inquiry, student centered learning, teaching, training
 
-<h4>Curriculum Development</h4>
-keywords:<br> blending learning, collaborative tools, cooperative learning, course design, creative classrooms, 
-digital learning tools, digital literacy, educational technology, flipped classrooms, flipped teaching, 
-mobile learning, OER, open educational resources,curriculum design
+<h4>Classroom Development</h4>
+keywords:<br> blended learning, collaborative tools, cooperative learning, course design, creative classrooms, differentiation, digital curation, digital learning tools, educational technology, flipped classrooms, flipped teaching, inquiry science learning, mobile learning, OER, open educational resources,curriculum design
 
 <h4>Online Education</h4>
-keywords:<br> badges, e-learning, gamification, mooc, moodle, online education, online learning, online pedagogy, 
-virtual classroom
+keywords:<br> badges, digital badges, e-learning, gamification, mooc, moodle, oer, online education, online learning, online pedagogy, open educational resources, virtual classroom, virtual instruction, 
 
 <h4>Test Prep</h4>
-keywords:<br> AB, AP, BC, college readiness, exams, GMAT, prep, SAT, STAT
+keywords:<br> AB, AP, BC, college readiness, exams, GMAT, prep, preparation, refresher, review, SAT, STAT
 
 <h2>Engineering</h2>
 
