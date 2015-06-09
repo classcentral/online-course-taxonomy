@@ -5,12 +5,10 @@ keywords:<br> acting, cinema, cubism, dadaism, documentaries, film, film noir, f
 scripts, shakespeare, surrealism, television, theatre
 
 <h4>Digital Media & Video Games</h4>
-keywords:<br> 3D, abelton live, computational arts, digital, digital imaging, digital media, FinalCut, graphic design,
-Moviemaker, music engineering, music production, music recording, phoneography, SLR camera, studio production, 
-video games, visual arts
+keywords:<br> 3D, abelton live, animation, animators, computational arts, digital, digital imaging, digital media, FinalCut, game design, graphic design, moviemaker, multimedia, music engineering, music production, music recording, phoneography, SLR camera, studio production, video games, visual arts, vocal recording
 
 <h4>Music</h4>
-keywords: <br> classical, music, music history, music theory, opera, rock, western music, world music
+keywords: <br> beatles, beethoven, blues, brahms, classical, ensembles, guitar, improvization, jazz, mozart, music, music history, music theory, opera, percussion, rock, rolling stones, songwriting, string quartet, viola, violin, western music, world music
 
 <h4>Visual Arts</h4>
 keywords:<br> animation, architecture, art, art history, comic books, contemporary art, drawing, fashion, 
