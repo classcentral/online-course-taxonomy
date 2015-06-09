@@ -155,7 +155,7 @@ keywords: <br> ancient egypt, ancient greece, battle of waterloo, civil war, col
 keywords:<br> altruism, anarchy, bioethics, calvin, confucian philosophy, consequentialism, deontology, epicirus, epicureanism, epistemology, ethics, existence, hedonism, human will, infinities, isocrates, kierkegaard, logic, mathematical philosophy, meaning, metaphysics, moral philosophy, moral psychology, moralities, morals, natural philosophy, neuroethics, occasionalism, ontology, paradoxes, philosophy, plato, pragmatist, reasoning, skepticism, socrates, stoicism, theorems, thinking, thought, truth values, value theory, values, virtue ethics, wisdom
 
 <h4>Religion</h4>
-keywords:<br> bible, buddhism, christianity, islam, jesus, mohammed, religion, scripture, spirituality, theology
+keywords:<br> bible, book of matthew, buddhism, christianity, islam, jesus, letters of paul, mohammed, religion, revalations, scripture, spirituality, theology
 
 <h2>Mathematics</h2>
 
