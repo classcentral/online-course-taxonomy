@@ -81,14 +81,13 @@ keywords:<br> AB, AP, BC, college readiness, exams, GMAT, prep, preparation, ref
 <h2>Engineering</h2>
 
 <h4>Electrical Engineering</h4>
-keywords:<br> Arduino, BeagleBone, Cellular Spectrums, Data Networks, Development Boards, Digital Signal 
-Processing, Diodes, DSP, Electrical Engineering, Embedded Systems, Fiber Optics, Haptic, Haptic Systems,
-Information Theory, Integrated Circuits, Linear Circuits, Microcontrollers, MOS Transistors, Nano-sensors, 
-Nonlinear Optics, Optical Fiber Networks, Photovoltaic Systems, PV, Radio Frequencies, Raspberry PI, Registers,
-Sensors, Signal Processing, Signals, Transistors, VHDL
+keywords:<br> arduino, asic, beaglebone, cellular Spectrums, data networks, development boards, digital signal 
+processing, diodes, dsp, electrical engineering, embedded systems, fiber optics, haptic, haptic systems,
+information theory, integrated circuits, linear circuits, microcontrollers, mos transistors, nano-sensors, 
+nonlinear optics, optical fiber networks, photonics, photovoltaic systems, pv, radio frequencies, raspberry pi, registers, sensors, signal processing, signals, transistors, solar cells, vhdl
 
 <h4>Mechanical Engineering</h4>
-keywords:<br> CAD, Computer Aided Design, Dynamics, Dynamics & Control, Equilibrium, Fluid Dynamics, Fluids, 
+keywords:<br> cad, computer aided Design, Dynamics, Dynamics & Control, Equilibrium, Fluid Dynamics, Fluids, 
 Force, Kinematics, Kinetics, Manufacturing, Mechanics, Mechatronics, Nanomanufacturing, Nonlinear Dynamics, 
 Propulsion, Robotics, Solids, Statics, Structural Mechanics, Thermodynamics, Vehicle Dynamics, Velocity
 
