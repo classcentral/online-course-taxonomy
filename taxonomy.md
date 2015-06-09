@@ -20,13 +20,10 @@ keywords:<br> biomimicry, creativity, design, design thinking, feedback, geodesi
 
 <h4>Business Development</h4>
 keywords:<br> additive manufacturing, biz dev, business analysis, business development, business models,
-business strategy, competitive strategy, e-commerce, lean, life cycles, logistics, process improvement, 
-product development, six sigma, supply chain, supply chain management
+business strategy, competitive strategy, e-commerce, global business, global trends, it management, lean, lean operations, lean six sigma, life cycles, logistics, process improvement, product development, sap, service logic, six sigma, substinance marketplaces, supply chain, supply chain management, sustainable product development, 
 
 <h4>Finance</h4>
-keywords:<br> accounting, asset pricing, bonds, budgeting, business finance, computation investing, corporate finance,
-cost behaviour, finance, financial engineering, financial markets, financial planning, investing, personal finance,
-risk management, stock markets, stocks, wall street
+keywords:<br> accounting, accounting, cycle, asset pricing, bonds, budgeting, business finance, computational investing, corporate finance, cost behaviour, credit risk, finance, financial accounting, financial engineering, financial literacy, financial markets, financial planning, global capital markets, investing, money, monetary system, personal finance, risk management, stock markets, stocks, wall street
 
 <h4>Management & Leadership</h4>
 keywords:<br> adaptive leadership, culture, human resources management, leadership, management, operations management,
