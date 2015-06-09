@@ -20,26 +20,23 @@ keywords:<br> biomimicry, creativity, design, design thinking, feedback, geodesi
 
 <h4>Business Development</h4>
 keywords:<br> additive manufacturing, biz dev, business analysis, business development, business models,
-business strategy, competitive strategy, e-commerce, global business, global trends, it management, lean, lean operations, lean six sigma, life cycles, logistics, process improvement, product development, sap, service logic, six sigma, substinance marketplaces, supply chain, supply chain management, sustainable product development, 
+business strategy, competitive strategy, e-commerce, global business, global trends, it management, lean, lean operations, lean six sigma, life cycles, logistics, process improvement, product development, sap, service logic, six sigma, substinance marketplaces, supply chain, supply chain management, sustainable product development 
 
 <h4>Finance</h4>
 keywords:<br> accounting, accounting, cycle, asset pricing, bonds, budgeting, business finance, computational investing, corporate finance, cost behaviour, credit risk, finance, financial accounting, financial engineering, financial literacy, financial markets, financial planning, global capital markets, investing, money, monetary system, personal finance, risk management, stock markets, stocks, wall street
 
 <h4>Management & Leadership</h4>
-keywords:<br> adaptive leadership, culture, human resources management, leadership, management, operations management,
-project management, project planning, strategic management
+keywords:<br> adaptive leadership, corporate culture, culture, human resources management, leadership, management, operations management, project management, project planning, strategic management
 
 <h4>Entrepreneurship</h4>
-keywords:<br> entrepreneur, futurism, growth hacking, innovation, scaling, startup, ventures
+keywords:<br> entrepreneur, entreprenuership, futurism, growth hacking, innovation, scaling, social entrepreunership, startups, venture capital, ventures
 
 <h4>Professional Development</h4>
-keywords:<br> business communication, business ethics, business writing, career counseling, communication,
-conflict resolution, decision making, negotiations, networking, onboarding, personal branding, presentations, 
-problem solving, public speaking, strategic thinking, time management
+keywords:<br> business communication, business ethics, business writing, career counseling, coaching, communication,
+conflict resolution, decision making, employability, negotiations, networking, numeracy skills, onboarding, personal branding, presentations, problem solving, public speaking, skills, storytelling, strategic thinking, success, time management
 
 <h4>Marketing</h4>
-keywords:<br> branding, content strategy, digital analytics, digital marketing, market analysis, marketing, 
-online advertising, services marketing, social media marketing
+keywords:<br> branding, content strategy, digital analytics, digital brand engagement, digital marketing, growth hacker marketing, market analysis, marketing, online advertising, services marketing, social media marketing
 
 <h2>Computer Science</h2>
 
