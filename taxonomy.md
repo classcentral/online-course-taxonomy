@@ -41,17 +41,18 @@ keywords:<br> branding, content strategy, digital analytics, digital brand engag
 <h2>Computer Science</h2>
 
 <h4>Theoretical Computer Science</h4>
-keywords:<br> abstraction, algorithms, automata, concurrency, cryptography, data structures, discrete optimization, 
-parallel programming, theoretical computer science
+keywords:<br> abstraction, algorithmic thinking, algorithms, automata, complexity, computability, computer paradigms, computing, concurrency, cryptocurrency, cryptography, data structures, discrete optimization, parallel programming, text retrieval, theoretical computer science
 
 <h4>Data Science & Big Data</h4>
 keywords:<br> analytics, apache spark, apache storm, big data, data analytics, data cleaning, data mining, 
-data science, data sets, hadoop, informatics, mapreduce, R, regression models, visualization, weka
+data science, data sets, data visualization, d3.js, hadoop, informatics, mapreduce, model building, R, regression models,  stastical inference, visualization, weka
 
 <h4>Artificial Intelligence</h4>
-keywords: <br> AI, artificial intelligence, autonomous, computer aided translation, computer vision, 
-machine learning, natural language processing, neural networks, NLP, pattern recognition, prediction systems, 
+keywords: <br> AI, artificial intelligence, artificial vision, autonomous, cognitive systems, computer aided translation, computer vision, discrete inference, machine learning, natural language processing, neural networks, NLP, pattern recognition, prediction systems, 
 recommender systems, reinforcement learning, robotic vision, robotics, supervised learning, unsupervised learning
+
+<h4>Bioinformatics</h4>
+keywords: <br> bioinformatics, biological data, biostatistics, dna methylation, dna sequencing, genetic algorithms, genomic data science, genomics, genotyping, sequencing
 
 <h2>Education & Teaching</h2>
 
