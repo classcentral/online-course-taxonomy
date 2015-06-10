@@ -181,26 +181,20 @@ keywords: <br> agriculture, climate, climate science, earth science, ecosystems,
 <h2>Social Sciences</h2>
 
 <h4>Anthropology</h4>
-keywords:<br> anthropology, archaeology, demography, folklore, genealogy., indigenous studies, linguistic anthropology, rituals
+keywords:<br> anthropology, archaeology, artifacts, culutural preservation, demography, folklore, genealogy, human origins, indigenous studies, linguistic anthropology, rituals
 
 <h4>Psychology:</h4>
-keywords: <br> affective science, child development, cognitive science, neuroscience, social psychology
+keywords: <br> affective science, bullying, child development, cognitive science, emotional intelligence, happiness, human psychology, neuroscience, popularity, relationships, positive psychology, social psychology
 
 <h4>Sociology</h4>
 keywords:<br> behaviour, communication science, conflict theory, criminology, cultural studies, environment, 
-family, gender studies, linguistics, metaliteracy, semantics, sexuality in society, social change, social classes, 
-sociolinguistics, structural equation model
+family, feminism, gender studies, linguistics, metaliteracy, semantics, sexuality in society, social change, social classes, sociolinguistics, structural equation model, women's rights
 
 <h4>Economics</h4>
-keywords:<br> behaviour economics, derivatives, econometrics, economics, financial markets, game theory, globalization, 
-international trade, macroeconomics, microeconomics, stock markets, trade
+keywords:<br> behaviour economics, classical economics, derivatives, econometrics, economic policymaking, economics, federal reserve, financial markets, game theory, globalization, international trade, macroeconomics, microeconomics, stock markets, trade
 
 <h4>Political Science</h4>
-keywords:<br> counterterrorism, foreign relations, global politics, governance, government, international development, 
-international relations, national security, political philosophy, public policy, referendums, 
-terrorism
+keywords:<br> counterterrorism, decentralization, democracy, elections, european union, federalism, foreign policy, foreign relations, global community, global order, global politics, governance, government, international development, international politics, international relations, mao zedong, national security, political philosophy, propaganda, public policy, referendums, terrorism
 
 <h4>Law</h4>
-keywords:<br> business law, citizenship, civil liberties, civil rights, constitution, contracts, copyrights, 
-criminal law, human rights, immigration, international law, law, liability, privacy, property law, surveillance law, 
-tax law, terrorism law
+keywords:<br> business law, citizenship, civil liberties, civil rights, common low, constitution, contracts, copyrights, criminal law, human rights, immigration, international law, law, legal ethical governance, liability, patent law, privacy, property law, surveillance law, tax law, terrorism law
