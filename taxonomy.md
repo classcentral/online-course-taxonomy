@@ -87,42 +87,32 @@ information theory, integrated circuits, linear circuits, microcontrollers, mos 
 nonlinear optics, optical fiber networks, photonics, photovoltaic systems, pv, radio frequencies, raspberry pi, registers, sensors, signal processing, signals, transistors, solar cells, vhdl
 
 <h4>Mechanical Engineering</h4>
-keywords:<br> cad, computer aided Design, Dynamics, Dynamics & Control, Equilibrium, Fluid Dynamics, Fluids, 
-Force, Kinematics, Kinetics, Manufacturing, Mechanics, Mechatronics, Nanomanufacturing, Nonlinear Dynamics, 
-Propulsion, Robotics, Solids, Statics, Structural Mechanics, Thermodynamics, Vehicle Dynamics, Velocity
+keywords:<br> aeronautical engineering, aerodynamics, cad, computer aided Design, dynamics, dynamics, engineering mechanics, equilibrium, fluid dynamics, fluid power, fluids, force, kinematics, kinetics, manufacturing, mechanics, mechatronics, nanomanufacturing, nonlinear dynamics, propulsion, robotics, solids, statistical thermodynamics, statics, structural mechanics, thermodynamics, vehicle dynamics, velocity
 
 <h4>Materials Science & Engineering:</h4>
-keywords: <br> Blacksmithing, Fatigue, Fracture, Magnetic Materials, Materials Engineering, Materials Processing,
-Materials Science, Metallurgy, Physical Metallurgy, Polymer Engineering, Polymer Physics, Solar Cells, 
-Structure Properties, Structures, Symmetry, Tensor Properties
+keywords: <br> blacksmithing, fatigue, fracture, magnetic materials, materials engineering, materials processing,
+materials science, metallurgy, physical metallurgy, polymer engineering, polymer physics, solar cells, structure properties, structures, symmetry, tensor properties
 
 <h4>Civil Engineering</h4>
-keywords:<br> BIM, cartography, Civil Engineering, Dynamics & Vibration, Energy in Buildings, Geomatic Engineering, 
-Geometric, Geospatial, GIS, Public Transportation Systems, Supply Chain Design, Transit Management, 
-Transportation Flow Systems, Urban Planning
+keywords:<br> bim, cartography, civil engineering, durable development, energy in buildings, geographic information systems, geomatic engineering, geometric, geospatial, gis, material behaviour, public transportation systems, sanitation systems, structures, transit management, transportation flow systems, urban planning, wastewater treatment
 
 <h4>Environmental Engineering</h4>
-keywords:<br> Environmental Engineering, Environmental Microbiology, Groundwater Hydrology, Soil Behaviour, 
-Sustainability, Wastewater Treatment, Water Resource Systems, Water Sanitation
+keywords:<br> environmental engineering, environmental microbiology, groundwater hydrology, soil behaviour, 
+sustainability, water resource systems
 
 <h2>Health & Medicine</h2>
 
 <h4>Disease & Disorders</h4>
-keywords:<br> addiction, ADHD, AIDS, aphasia, autism, bacteria, cancer, cardiovascular disease, caries, dementia, 
-depression, diabetes, disease, drug abuse, dysphagia, ebola, epidemics, heart disease, HIV, infections, liver disease,
-neurology, outbreaks, pandemics, parasites, parkinson’s, virology, viruses
+keywords:<br> addiction, adhd, aids, antibiotic resistance, aphasia, autism, bacteria, cancer, cardiac arrest, cardiovascular disease, caries, dementia, depression, diabetes, disabilities, disease, drug abuse, dysphagia, ebola, epidemics, heart disease, hiv, hypothermia, immune system, infections, infectious desieases, liver disease, neurology, outbreaks, pandemics, parasites, parkinson’s, virology, viruses
 
 <h4>Nutrition & Wellness</h4>
-keywords:<br> diet, exercise, health foods, holistic, nutrition, pilates, stress management, wellness, yoga
+keywords:<br> ageing, child nutrition, diet, exercise, excercise physiology, food safety, health foods, holistic, malnutrition, micronutrients, nutrition, obesity, physical activity, pilates, stress management, traditional healing, training, wellness, yoga
 
 <h4>Public & Global Health</h4>
-keywords:<br> ACA, affordable care act, epidemiology, global health, health systems, humanitarianism, mobile health,
-population health, public health
+keywords:<br> aca, affordable care act, epidemiology, global health, health care reform, health systems, humanitarianism, mobile health, population health, primary health care, public health
 
 <h4>Healthcare & Research</h4>
-keywords:<br> behavioral medicine, biomedical imaging, clinical problem solving, clinical skills, clinical trials,
-contraception, controlled trials, dental practice, dentistry, drug discovery, drugs, first aid, health care, 
-health care informatics, immunology, nursing, pediatric, pharmacology, practice, surgery, vaccines
+keywords:<br> aed, behavioral medicine, biomedical imaging, clinical problem solving, clinical skills, clinical trials, contraception, controlled trials, cpr, dental practice, dentistry, drug discovery, drugs, first aid, first responders, health care, health literacy, hippocrates, immunology, life support, medication, mental health, nursing, patient engagement, patient safety, pediatric, pharmacology, practice, precision medicine, surgery, urology, vaccines
 
 <h2>Humanities</h2>
 
@@ -146,16 +136,16 @@ keywords:<br> bible, book of matthew, buddhism, christianity, islam, jesus, lett
 <h2>Mathematics</h2>
 
 <h4>Foundations of Mathematics</h4>
-keywords:<br> Language of Mathematics, Logic, Model Theory, Set Theory
+keywords:<br> language of mathematics, logic, mathematical symbolism, model theory, set theory
 
 <h4>Algebra</h4>
-keywords:<br> Algebraic Systems, Combinatorics, Discrete Mathematics, Field Theory, Graph Theory, Group Theory, K Theory, Linear Algebra, Number Theory
+keywords:<br> algebra, algebra+, algebraic systems, college algebra, combinatorics, discrete mathematics, field theory, graph theory, group theory, k theory, linear algebra, pre-algebra, number theory
 
 <h4>Geometry</h4>
-keywords:<br> Convex Optimization, Geometry, Manifolds, Topology
+keywords:<br> convex optimization, geometry, manifolds, topology
 
 <h4>Calculus & Analysis</h4>
-keywords:<br> Analysis, Analytic, Calculus, Chaos Theory, Combinatorics, Complex Variables, Derivatives, Differential Equations, Dynamical Systems, Fourier Analysis, Functional Analysis, Integral Equations, Integrals, Nonlinear dynamics, Numerical Analysis
+keywords:<br> analysis, analytic combinatorics, calculus, chaos theory, complex variables, derivatives, differential equations, dynamical systems, fourier analysis, functional analysis, integral equations, integrals, multivariable calculus, nonlinear dynamics, numerical analysis, pre-calculus, quantitative finance, 
 
 <h4>Statistics & Probability</h4>
 keywords: <br>Linear Regression, Probability, Regression, Statistics
@@ -163,8 +153,7 @@ keywords: <br>Linear Regression, Probability, Regression, Statistics
 <h2>Programming</h2>
 
 <h4>Mobile Development</h4>
-keywords:<br> android, FirefoxOS, iPad, iPhone, mobile, mobile apps, mobile computing, mobile game development,
-mobile HTML5 applications, mobile web development, smartphone, windows 8 applications
+keywords:<br> android, firefoxos, google play, ipad, iphone, mobile, mobile apps, mobile computing, mobile game development, mobile html5 applications, mobile services, mobile web development, smartphone, swift, ukit, windows 8 applications
 
 <h4>Web Development</h4>
 keywords:<br> ajax, cloud, cloud development, cloud engineering, css, foundation, front end web development, 
@@ -172,14 +161,12 @@ full stack, html, HTML5, HTML5 canvas, javascript, jquery, metadata, node.js, re
 salesforce, semantic web, Software as a service, twitter bootstrap, web applications, web design, web development
 
 <h4>Databases</h4>
-keywords: <br> databases, in memory data management, in memory databases, MongoDB, relational databases, SQL
+keywords: <br> databases, db, dba, in memory data management, in memory databases, mongodb, nosql, relational databases, sql, t-sql, transact-sql
 
 <h2>Science</h2>
 
 <h4>Physics</h4>
-keywords:<br> acoustics, astrophysics, classical mechanics, electricity, field theory, graphene, gravity, higgs boson,
-linear motion, magnetism, mechanics, motion, nuclear physics, nuclear science, optics, physics, quantum mechanics, 
-string theory, theoretical physics, thermodynamics, waves
+keywords:<br> acoustics, astrophysics, classical mechanics, einstein, electricity, field theory, friction, graphene, gravity, higgs boson, linear motion, light, magnetic resonance, magnetism, mechanics, molecular structures, motion, newtonian physics, nuclear physics, nuclear science, nuclear physics, optics, physics, plasma physics, quantum mechanics, quantum physics, relativity, solar energy, string theory, theoretical physics, thermodynamics, transport phenomena, unification, wave motion, waves
 
 <h4>Chemistry</h4>
 keywords:<br> analytical chemistry, chemistry, organic chemistry, physical chemistry, solid state chemistry
