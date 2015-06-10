@@ -156,9 +156,7 @@ keywords: <br>Linear Regression, Probability, Regression, Statistics
 keywords:<br> android, firefoxos, google play, ipad, iphone, mobile, mobile apps, mobile computing, mobile game development, mobile html5 applications, mobile services, mobile web development, smartphone, swift, ukit, windows 8 applications
 
 <h4>Web Development</h4>
-keywords:<br> ajax, cloud, cloud development, cloud engineering, css, foundation, front end web development, 
-full stack, html, HTML5, HTML5 canvas, javascript, jquery, metadata, node.js, responsive web design, SaaS, 
-salesforce, semantic web, Software as a service, twitter bootstrap, web applications, web design, web development
+keywords:<br> ajax, azure, bootstrap, cloud, cloud development, cloud engineering, css, foundation, front end web development, full stack, html, html5, html5 canvas, javascript, jquery, metadata, microsoft azure, node.js, responsive web design, saas, salesforce, sap fiori, sap hana, semantic web, software as a service, twitter bootstrap, typescript, web applications, web design, web development
 
 <h4>Databases</h4>
 keywords: <br> databases, db, dba, in memory data management, in memory databases, mongodb, nosql, relational databases, sql, t-sql, transact-sql
@@ -172,18 +170,13 @@ keywords:<br> acoustics, astrophysics, classical mechanics, einstein, electricit
 keywords:<br> analytical chemistry, chemistry, organic chemistry, physical chemistry, solid state chemistry
 
 <h4>Astronomy</h4>
-keywords:<br> astrobiology, astronomy, astrophysics, big bang theory, cosmology, dark energy, dark matter, exoplanets, 
-extraterrestrial, galaxies, solar system, universe
+keywords:<br> astrobiology, astronomy, astrophysics, big bang theory, cosmology, dark energy, dark matter, exoplanets, extraterrestrial, galaxies, moons, multiverse, planetary boundries, solar system, universe
 
 <h4>Biology</h4>
-keywords:<br> animal behaviour, animal biology, bioelectricity, bioinformatics, biomolecular modeling, biotechnology, 
-brian, cell death, cells, DNA, evolution, genetics, genome science, genomes, human biology, microbiome, neurons,
-neuroscience, paleobiology, physiology, systems biology, tissues
+keywords:<br>anatomy, animal behaviour, animal biology, bioelectricity, bioinformatics, biomolecular modeling, biotechnology, brian, cell culture, cell death, cells, DNA, epigenetic control, evolution, gene expression, genetics, genome science, genomes, human anatomy, human biology, microbiology, microbiome, molecular biology, neurons, neuroscience, paleobiology, physiology, synapses, systems biology, tissue engineering, tissues
 
 <h4>Environmental Science</h4>
-keywords: <br> climate, climate science, earth science, ecosystems, energy, environmental science, fracking, geology,
-global food crisis, global warming, green, hydraulic fracturing, mining, nature, oceans, renewable energy, resilience,
-resources, shale gas, sustainability, sustainable food, symmetry, volcanoes, water
+keywords: <br> agriculture, climate, climate science, earth science, ecosystems, energy, environmental science, fracking, geology, geomechanics, global food crisis, global warming, forest monitoring, global warming, green, hydraulic fracturing, mining, natural disaesters, nature, oceanography, oceans, renewable energy, resilience, resources, shale gas, sustainability, sustainable development, sustainable food, symmetry, urban agriculture, volcanoes, water
 
 <h2>Social Sciences</h2>
 
