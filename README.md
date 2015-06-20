@@ -26,4 +26,4 @@ Though the current version reflects the current crop of online courses, it is bu
 
 Finally, we aggregate a data-set of keywords to allow ease of decision making when assigning a course to a category or subject. Currently the process of categorzing a course is done manually. But in the future, this data-set will also allow us to automate this process.
 
-This Open-source taxonomy philosophy will be available with a Creative Commons Attribution-NonCommercial 2.5 Generic (CC BY-NC 2.5) license. 
+This Open-source taxonomy philosophy will be available with a Creative Commons Attribution 4.0 International (CC BY 4.0) license. 
