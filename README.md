@@ -10,7 +10,7 @@ With a simple interface and thousands of reviews we have helped more than 2.5 mi
 
 ## Why We Did This
 
-We believe that learners are not always sure what they want. The most searched keyword on Class Central is [python](https://www.class-central.com/search?q=python) while the most popular course is [Learning How To Learn](https://www.class-central.com/mooc/2161/coursera-learning-how-to-learn-powerful-mental-tools-to-help-you-master-tough-subjects). The courses that people want to take are not always the ones that the search for.
+We believe that learners are not always sure what they want. The most searched keyword on Class Central is [python](https://www.class-central.com/search?q=python) while the most popular course is [Learning How To Learn](https://www.class-central.com/mooc/2161/coursera-learning-how-to-learn-powerful-mental-tools-to-help-you-master-tough-subjects). The courses that people want to take are not always the ones that they search for.
 
 For learners to be a able to stumble upon courses that they didn't know exist, a well defined taxonomy is crucial. On top of this taxonomy, we limit our catalogue by only allowing courses that meet a quality bar. This enhances the discovery process. You can find the taxonomy live on our subjects page below:
 
