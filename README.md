@@ -80,8 +80,7 @@ analytics, apache spark, apache storm, big data, data analytics, data cleaning, 
 data science, data sets, data visualization, d3.js, hadoop, informatics, mapreduce, model building, R, regression models,  stastical inference, visualization, weka
 
 <h4>Artificial Intelligence</h4>
-AI, artificial intelligence, artificial vision, autonomous, cognitive systems, computer aided translation, computer vision, discrete inference, machine learning, natural language processing, neural networks, NLP, pattern recognition, prediction systems, 
-recommender systems, reinforcement learning, robotic vision, robotics, supervised learning, unsupervised learning
+AI, artificial intelligence, artificial vision, autonomous, classification systems, clustering, cognitive systems, computer aided translation, computer vision, discrete inference, machine learning, natural language processing, neural networks, NLP, pattern recognition, prediction systems, predictive analytics, recommender systems, regression modeling, reinforcement learning, robotic vision, robotics, supervised learning, translation systems, unsupervised learning
 
 <h4>Bioinformatics</h4>
 bioinformatics, biological data, biostatistics, dna methylation, dna sequencing, genetic algorithms, genomic data science, genomics, genotyping, sequencing
