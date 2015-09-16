@@ -76,8 +76,7 @@ branding, content strategy, digital analytics, digital brand engagement, digital
 abstraction, algorithmic thinking, algorithms, automata, complexity, computability, computer paradigms, computing, concurrency, cryptocurrency, cryptography, data structures, discrete optimization, parallel programming, text retrieval, theoretical computer science
 
 <h4>Data Science & Big Data</h4>
-analytics, apache spark, apache storm, big data, data analytics, data cleaning, data mining, 
-data science, data sets, data visualization, d3.js, hadoop, informatics, mapreduce, model building, R, regression models,  stastical inference, visualization, weka
+analytics, apache spark, apache storm, BI systems, big data, business intelligence, data analysis, data analytics, data cleaning, data collection, data mining, data science, data sets, data visualization, data warehousing, d3.js, hadoop, informatics, mapreduce, model building, qualitative methods, R, R programming, statistical inference, visualization, weka
 
 <h4>Artificial Intelligence</h4>
 AI, artificial intelligence, artificial vision, autonomous, classification systems, clustering, cognitive systems, computer aided translation, computer vision, discrete inference, machine learning, natural language processing, neural networks, NLP, pattern recognition, prediction systems, predictive analytics, recommender systems, regression modeling, reinforcement learning, robotic vision, robotics, supervised learning, translation systems, unsupervised learning
