@@ -30,186 +30,233 @@ This Open-source taxonomy philosophy will be available with a Creative Commons A
 
 # Subjects
 
-<h2>Art & Design</h2>
+## Art & Design
 
-<h4>Film & Theatre</h4>
+#### Film & Theatre
+
 acting, cinema, cubism, dadaism, documentaries, film, film noir, filmmaking, futurism, hollywood, 
 scripts, shakespeare, surrealism, television, theatre
 
-<h4>Digital Media & Video Games</h4>
+#### Digital Media & Video Games
+
 3D, abelton live, animation, animators, computational arts, digital, digital imaging, digital media, FinalCut, game design, graphic design, moviemaker, multimedia, music engineering, music production, music recording, phoneography, SLR camera, studio production, video games, visual arts, vocal recording
 
-<h4>Music</h4>
+#### Music
+
 beatles, beethoven, blues, brahms, classical, ensembles, guitar, improvization, jazz, mozart, music, music history, music theory, opera, percussion, rock, rolling stones, songwriting, string quartet, viola, violin, western music, world music
 
-<h4>Visual Arts</h4>
+#### Visual Arts
+
 alberti, bramanti, animation, architecture, art, art history, comic books, contemporary architecture, contemporary art, drawing, fashion, frank lloyd wright, graphic novels, museum, painting, photography, renaissance, textiles, warhol
 
-<h4>Design & Creativity</h4>
+#### Design & Creativity
+
 biomimicry, creativity, design, design thinking, feedback, geodesign, HCI, human-centered design, human computer interaction, innovation, interaction, interior design, needfinding, product design, prototyping, user experience, ux, visual design
 
-<h2>Business & Management</h2>
+## Business & Management
 
-<h4>Business Development</h4>
+#### Business Development
+
 additive manufacturing, biz dev, business analysis, business development, business models,
 business strategy, competitive strategy, e-commerce, global business, global trends, it management, lean, lean operations, lean six sigma, life cycles, logistics, process improvement, product development, sap, service logic, six sigma, substinance marketplaces, supply chain, supply chain management, sustainable product development 
 
-<h4>Finance</h4>
+#### Finance
+
 accounting, accounting, cycle, asset pricing, bonds, budgeting, business finance, computational investing, corporate finance, cost behaviour, credit risk, finance, financial accounting, financial engineering, financial literacy, financial markets, financial planning, global capital markets, investing, money, monetary system, personal finance, risk management, stock markets, stocks, wall street
 
-<h4>Management & Leadership</h4>
+#### Management & Leadership
+
 adaptive leadership, corporate culture, culture, human resources management, leadership, management, operations management, project management, project planning, strategic management
 
-<h4>Entrepreneurship</h4>
+#### Entrepreneurship
+
 entrepreneur, entreprenuership, futurism, growth hacking, innovation, scaling, social entrepreunership, startups, venture capital, ventures
 
-<h4>Professional Development</h4>
+#### Professional Development
+
 business communication, business ethics, business writing, career counseling, coaching, communication,
 conflict resolution, decision making, employability, negotiations, networking, numeracy skills, onboarding, personal branding, presentations, problem solving, public speaking, skills, storytelling, strategic thinking, success, time management
 
-<h4>Marketing</h4>
+#### Marketing
+
 branding, content strategy, digital analytics, digital brand engagement, digital marketing, growth hacker marketing, market analysis, marketing, online advertising, services marketing, social media marketing
 
-<h2>Computer Science</h2>
+## Computer Science
 
-<h4>Theoretical Computer Science</h4>
+#### Theoretical Computer Science
+
 abstraction, algorithmic thinking, algorithms, automata, complexity, computability, computer paradigms, computing, concurrency, cryptocurrency, cryptography, data structures, discrete optimization, parallel programming, text retrieval, theoretical computer science
 
-<h4>Data Science & Big Data</h4>
+#### Data Science & Big Data
+
 analytics, apache spark, apache storm, BI systems, big data, business intelligence, data analysis, data analytics, data cleaning, data collection, data mining, data science, data sets, data visualization, data warehousing, d3.js, hadoop, informatics, mapreduce, model building, qualitative methods, R, R programming, statistical inference, visualization, weka
 
-<h4>Artificial Intelligence</h4>
+#### Artificial Intelligence
+
 AI, artificial intelligence, artificial vision, autonomous, classification systems, clustering, cognitive systems, computer aided translation, computer vision, discrete inference, machine learning, natural language processing, neural networks, NLP, pattern recognition, prediction systems, predictive analytics, recommender systems, regression modeling, reinforcement learning, robotic vision, robotics, supervised learning, translation systems, unsupervised learning
 
-<h4>Bioinformatics</h4>
+#### Bioinformatics
+
 bioinformatics, biological data, biostatistics, dna methylation, dna sequencing, genetic algorithms, genomic data science, genomics, genotyping, sequencing
 
-<h2>Education & Teaching</h2>
+## Education & Teaching
 
-<h4>K12</h4>
+#### K12
 common core, early childhood education, first year teaching, k12, primary, primary education, 
 secondary, secondary education, youth education, 
 
-<h4>STEM</h4>
+#### STEM
+
 digital literacy, gaming literacy, hacker spaces, maker spaces, STEAM, STEM, tinkering
 
-<h4>Higher Education</h4>
+#### Higher Education
+
 academic success, adult, adult learners, college, college admissions, college applications, college prep, dissertations, higher education, research, research projects, student success, study skills, universities
 
-<h4>Teacher Development</h4>
+#### Teacher Development
+
 coaching, educator, foundations of teaching, instructional methods, student centered inquiry, student centered learning, teaching, training
 
-<h4>Classroom Development</h4>
+#### Classroom Development
+
 blended learning, collaborative tools, cooperative learning, course design, creative classrooms, differentiation, digital curation, digital learning tools, educational technology, flipped classrooms, flipped teaching, inquiry science learning, mobile learning, OER, open educational resources,curriculum design
 
-<h4>Online Education</h4>
+#### Online Education
+
 badges, digital badges, e-learning, gamification, mooc, moodle, oer, online education, online learning, online pedagogy, open educational resources, virtual classroom, virtual instruction, 
 
-<h4>Test Prep</h4>
+#### Test Prep
+
 AB, AP, BC, college readiness, exams, GMAT, prep, preparation, refresher, review, SAT, STAT
 
-<h2>Engineering</h2>
+## Engineering
 
-<h4>Electrical Engineering</h4>
+#### Electrical Engineering
+
 arduino, asic, beaglebone, cellular Spectrums, data networks, development boards, digital signal 
 processing, diodes, dsp, electrical engineering, embedded systems, fiber optics, haptic, haptic systems,
 information theory, integrated circuits, linear circuits, microcontrollers, mos transistors, nano-sensors, 
 nonlinear optics, optical fiber networks, photonics, photovoltaic systems, pv, radio frequencies, raspberry pi, registers, sensors, signal processing, signals, transistors, solar cells, vhdl
 
-<h4>Mechanical Engineering</h4>
+#### Mechanical Engineering
+
 aeronautical engineering, aerodynamics, cad, computer aided Design, dynamics, dynamics, engineering mechanics, equilibrium, fluid dynamics, fluid power, fluids, force, kinematics, kinetics, manufacturing, mechanics, mechatronics, nanomanufacturing, nonlinear dynamics, propulsion, robotics, solids, statistical thermodynamics, statics, structural mechanics, thermodynamics, vehicle dynamics, velocity
 
-<h4>Materials Science & Engineering:</h4>
+#### Materials Science & Engineering
+
 blacksmithing, fatigue, fracture, magnetic materials, materials engineering, materials processing,
 materials science, metallurgy, physical metallurgy, polymer engineering, polymer physics, solar cells, structure properties, structures, symmetry, tensor properties
 
-<h4>Civil Engineering</h4>
+#### Civil Engineering
+
 bim, cartography, civil engineering, durable development, energy in buildings, geographic information systems, geomatic engineering, geometric, geospatial, gis, material behaviour, public transportation systems, sanitation systems, structures, transit management, transportation flow systems, urban planning, wastewater treatment
 
-<h4>Environmental Engineering</h4>
+#### Environmental Engineering
+
 environmental engineering, environmental microbiology, groundwater hydrology, soil behaviour, 
 sustainability, water resource systems
 
-<h2>Health & Medicine</h2>
+## Health & Medicine
 
-<h4>Disease & Disorders</h4>
+#### Disease & Disorders
+
 addiction, adhd, aids, antibiotic resistance, aphasia, autism, bacteria, cancer, cardiac arrest, cardiovascular disease, caries, dementia, depression, diabetes, disabilities, disease, drug abuse, dysphagia, ebola, epidemics, heart disease, hiv, hypothermia, immune system, infections, infectious desieases, liver disease, neurology, outbreaks, pandemics, parasites, parkinson’s, virology, viruses
 
-<h4>Nutrition & Wellness</h4>
+#### Nutrition & Wellness
+
 ageing, child nutrition, diet, exercise, excercise physiology, food safety, health foods, holistic, malnutrition, micronutrients, nutrition, obesity, physical activity, pilates, stress management, traditional healing, training, wellness, yoga
 
-<h4>Public & Global Health</h4>
+#### Public & Global Health
+
 aca, affordable care act, epidemiology, global health, health care reform, health systems, humanitarianism, mobile health, population health, primary health care, public health
 
-<h4>Healthcare & Research</h4>
+#### Healthcare & Research
+
 aed, behavioral medicine, biomedical imaging, clinical problem solving, clinical skills, clinical trials, contraception, controlled trials, cpr, dental practice, dentistry, drug discovery, drugs, first aid, first responders, health care, health literacy, hippocrates, immunology, life support, medication, mental health, nursing, patient engagement, patient safety, pediatric, pharmacology, practice, precision medicine, surgery, urology, vaccines
 
-<h2>Humanities</h2>
+## Humanities
 
-<h4>Literature</h4>
+#### Literature
 
-<h4>Grammar & Writing</h4>
+#### Grammar & Writing
+
 business writing, community journalism, composition, digital journalism, documentation, english, english composition, essays, grammar, journalism, rhetorical composition, technical documentation, writing
 
-<h4>Languages & Culture</h4>
+#### Languages & Culture
+
 china, chinese, culture, dutch, language, english, german, korea, latin american, mandarin, pop culture, spanish, western culture
 
-<h4>History</h4>
+#### History
+
 ancient egypt, ancient greece, battle of waterloo, civil war, colonialism, emancipation proclamation, french revolution, gilded age, global history, great depression, history, holocaust, magna carta, middle ages, reconstruction, roaring twenties, western civiliation, u.s. history, vietnam war, world war one, world war two, world war I, world war II
 
-<h4>Philosophy</h4>
+#### Philosophy
+
 altruism, anarchy, bioethics, calvin, confucian philosophy, consequentialism, deontology, epicirus, epicureanism, epistemology, ethics, existence, hedonism, human will, infinities, isocrates, kierkegaard, logic, mathematical philosophy, meaning, metaphysics, moral philosophy, moral psychology, moralities, morals, natural philosophy, neuroethics, occasionalism, ontology, paradoxes, philosophy, plato, pragmatist, reasoning, skepticism, socrates, stoicism, theorems, thinking, thought, truth values, value theory, values, virtue ethics, wisdom
 
-<h4>Religion</h4>
+#### Religion 
+
 bible, book of matthew, buddhism, christianity, islam, jesus, letters of paul, mohammed, religion, revalations, scripture, spirituality, theology
 
-<h2>Mathematics</h2>
+## Mathematics
 
-<h4>Foundations of Mathematics</h4>
+#### Foundations of Mathematics
+
 language of mathematics, logic, mathematical symbolism, model theory, set theory
 
-<h4>Algebra</h4>
+#### Algebra
+
 algebra, algebra+, algebraic systems, college algebra, combinatorics, discrete mathematics, field theory, graph theory, group theory, k theory, linear algebra, pre-algebra, number theory
 
-<h4>Geometry</h4>
+#### Geometry
+
 convex optimization, geometry, manifolds, topology
 
-<h4>Calculus & Analysis</h4>
+#### Calculus & Analysis
+
 analysis, analytic combinatorics, calculus, chaos theory, complex variables, derivatives, differential equations, dynamical systems, fourier analysis, functional analysis, integral equations, integrals, multivariable calculus, nonlinear dynamics, numerical analysis, pre-calculus, quantitative finance, 
 
-<h4>Statistics & Probability</h4>
+#### Statistics & Probability
+
 Linear Regression, Probability, Regression, Statistics
 
-<h2>Programming</h2>
+## Programming 
 
-<h4>Mobile Development</h4>
+#### Mobile Development
+
 android, firefoxos, google play, ipad, iphone, mobile, mobile apps, mobile computing, mobile game development, mobile html5 applications, mobile services, mobile web development, smartphone, swift, ukit, windows 8 applications
 
-<h4>Web Development</h4>
+#### Web Development
+
 ajax, azure, bootstrap, cloud, cloud development, cloud engineering, css, foundation, front end web development, full stack, html, html5, html5 canvas, javascript, jquery, metadata, microsoft azure, node.js, responsive web design, saas, salesforce, sap fiori, sap hana, semantic web, software as a service, twitter bootstrap, typescript, web applications, web design, web development
 
-<h4>Databases</h4>
+#### Databases
+
 databases, db, dba, in memory data management, in memory databases, mongodb, nosql, relational databases, sql, t-sql, transact-sql
 
-<h2>Science</h2>
+## Science
 
-<h4>Physics</h4>
+#### Physics
+
 acoustics, astrophysics, classical mechanics, einstein, electricity, field theory, friction, graphene, gravity, higgs boson, linear motion, light, magnetic resonance, magnetism, mechanics, molecular structures, motion, newtonian physics, nuclear physics, nuclear science, nuclear physics, optics, physics, plasma physics, quantum mechanics, quantum physics, relativity, solar energy, string theory, theoretical physics, thermodynamics, transport phenomena, unification, wave motion, waves
 
-<h4>Chemistry</h4>
+#### Chemistry
+
 analytical chemistry, chemistry, organic chemistry, physical chemistry, solid state chemistry
 
-<h4>Astronomy</h4>
+#### Astronomy
+
 astrobiology, astronomy, astrophysics, big bang theory, cosmology, dark energy, dark matter, exoplanets, extraterrestrial, galaxies, moons, multiverse, planetary boundries, solar system, universe
 
-<h4>Biology</h4>
+#### Biology
+
 anatomy, animal behaviour, animal biology, bioelectricity, bioinformatics, biomolecular modeling, biotechnology, brian, cell culture, cell death, cells, DNA, epigenetic control, evolution, gene expression, genetics, genome science, genomes, human anatomy, human biology, microbiology, microbiome, molecular biology, neurons, neuroscience, paleobiology, physiology, synapses, systems biology, tissue engineering, tissues
 
-<h4>Environmental Science</h4>
+#### Environmental Science
+
 agriculture, climate, climate science, earth science, ecosystems, energy, environmental science, fracking, geology, geomechanics, global food crisis, global warming, forest monitoring, global warming, green, hydraulic fracturing, mining, natural disaesters, nature, oceanography, oceans, renewable energy, resilience, resources, shale gas, sustainability, sustainable development, sustainable food, symmetry, urban agriculture, volcanoes, water
 
 ## Social Sciences
-****
 
 #### Anthropology 
 
