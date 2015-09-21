@@ -43,7 +43,7 @@ scripts, shakespeare, surrealism, television, theatre
 
 #### Music
 
-beatles, beethoven, blues, brahms, classical, ensembles, guitar, improvization, jazz, mozart, music, music history, music theory, opera, percussion, rock, rolling stones, songwriting, string quartet, viola, violin, western music, world music
+beatles, beethoven, blues, brahms, carnatic music, classical music, ensembles, guitar, improvization, jazz, mozart, music, music appreciation, music ensembles, music history, music theory, musical notation, musicianship, opera, percussion, rock, rolling stones, songwriting, string quartet, viola, violin, western music, world music
 
 #### Visual Arts
 
