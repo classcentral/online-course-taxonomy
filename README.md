@@ -47,7 +47,7 @@ beatles, beethoven, blues, brahms, carnatic music, classical music, ensembles, g
 
 #### Visual Arts
 
-alberti, bramanti, animation, architecture, art, art history, comic books, contemporary architecture, contemporary art, drawing, fashion, frank lloyd wright, graphic novels, museum, painting, photography, renaissance, textiles, warhol
+alberti, bramanti, architecture, art, avant-garde, art history, baroque period, comic books, contemporary architecture, contemporary art, da vinci, drawing, fashion, frank lloyd wright, goya, graphic novels, modern period, modernism, museum, painting, photography, rembrandt, the renaissance, textiles, warhol
 
 #### Design & Creativity
 
