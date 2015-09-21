@@ -34,8 +34,8 @@ This Open-source taxonomy philosophy will be available with a Creative Commons A
 
 #### Film & Theatre
 
-acting, cinema, cubism, dadaism, documentaries, film, film noir, filmmaking, futurism, hollywood, 
-scripts, shakespeare, surrealism, television, theatre
+acting, cinema, cinematography, cubism, dadaism, documentaries, film, film noir, filmmaking, futurism, hollywood, 
+physical theatre, scripts, shakespeare, surrealism, television, theatre
 
 #### Digital Media & Video Games
 
