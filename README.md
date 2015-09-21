@@ -208,19 +208,23 @@ anatomy, animal behaviour, animal biology, bioelectricity, bioinformatics, biomo
 <h4>Environmental Science</h4>
 agriculture, climate, climate science, earth science, ecosystems, energy, environmental science, fracking, geology, geomechanics, global food crisis, global warming, forest monitoring, global warming, green, hydraulic fracturing, mining, natural disaesters, nature, oceanography, oceans, renewable energy, resilience, resources, shale gas, sustainability, sustainable development, sustainable food, symmetry, urban agriculture, volcanoes, water
 
-<h2>Social Sciences</h2>
+## Social Sciences
+****
 
-<h4>Anthropology</h4>
+#### Anthropology 
+
 anthropology, archaeology, artifacts, culutural preservation, demography, folklore, genealogy, human origins, indigenous studies, linguistic anthropology, rituals
 
-<h4>Psychology:</h4>
+#### Psychology
+
 affective science, bullying, child development, cognitive science, emotional intelligence, happiness, human psychology, neuroscience, popularity, relationships, positive psychology, social psychology
 
-<h4>Sociology</h4>
+#### Sociology
 behaviour, communication science, conflict theory, criminology, cultural studies, environment, 
 family, feminism, gender studies, linguistics, metaliteracy, semantics, sexuality in society, social change, social classes, sociolinguistics, structural equation model, women's rights
 
-<h4>Economics</h4>
+#### Economics
+
 behaviour economics, classical economics, derivatives, econometrics, economic policymaking, economics, federal reserve, financial markets, game theory, globalization, international trade, macroeconomics, microeconomics, stock markets, trade
 
 #### Political Science
