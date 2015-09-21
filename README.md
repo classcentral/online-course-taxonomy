@@ -51,7 +51,7 @@ alberti, bramanti, architecture, art, avant-garde, art history, baroque period, 
 
 #### Design & Creativity
 
-biomimicry, creativity, design, design thinking, feedback, geodesign, HCI, human-centered design, human computer interaction, innovation, interaction, interior design, needfinding, product design, prototyping, user experience, ux, visual design
+biomimicry, conceptual models, creativity, design, design principles, design thinking, feedback, fitt's law, geodesign, HCI, human-centered design, human computer interaction, ideation, innovation, interaction, interior design, needfinding, product design, prototyping, user experience, ux, visual analysis, visual design, visual representation
 
 ## Business & Management
 
