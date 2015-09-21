@@ -223,8 +223,9 @@ family, feminism, gender studies, linguistics, metaliteracy, semantics, sexualit
 <h4>Economics</h4>
 behaviour economics, classical economics, derivatives, econometrics, economic policymaking, economics, federal reserve, financial markets, game theory, globalization, international trade, macroeconomics, microeconomics, stock markets, trade
 
-<h4>Political Science</h4>
+#### Political Science
 counterterrorism, decentralization, democracy, elections, european union, federalism, foreign policy, foreign relations, global community, global order, global politics, governance, government, international development, international politics, international relations, mao zedong, national security, political philosophy, propaganda, public policy, referendums, terrorism
 
-<h4>Law</h4>
+#### Law
+
 business law, citizenship, civil liberties, civil rights, common low, constitution, contracts, copyrights, criminal law, human rights, immigration, international law, law, legal ethical governance, liability, patent law, privacy, property law, surveillance law, tax law, terrorism law
